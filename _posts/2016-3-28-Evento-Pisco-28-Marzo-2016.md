@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mi primer Articulo
+title: Evento Pisco 28 Marzo 2016
 ---
 
-Este es mi primer articulo
+Presentacion de oportunidad Fuxion
 
 ## Evento
 ![evento]({{ site.baseurl }}/images/pisco28-03-2016.jpg)
